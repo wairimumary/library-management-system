@@ -28,7 +28,7 @@ int main()
 {
     printf("\tCounty Library Systems\n");
     printf("login");
-    printf("Welcome Mr. mary\n");
+    printf("Welcome miss. mary\n");
     printf("What would you like to\n");
     printf("1, Add User\n");
     printf("2, Add Book\n");
